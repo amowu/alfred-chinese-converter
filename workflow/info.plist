@@ -31,7 +31,7 @@
 	<key>createdby</key>
 	<string>Amo Wu</string>
 	<key>description</key>
-	<string>Convert Chinese between Traditional and Simplified</string>
+	<string>Convert Chinese between Traditional and Simplified by OpenCC</string>
 	<key>disabled</key>
 	<false/>
 	<key>name</key>
@@ -70,10 +70,14 @@
 				<integer>0</integer>
 				<key>queuemode</key>
 				<integer>1</integer>
+				<key>runningsubtext</key>
+				<string>簡繁轉換中...</string>
 				<key>script</key>
 				<string>python chineseconverter.py "{query}"</string>
+				<key>subtext</key>
+				<string>支持簡繁體中文的詞彙級別轉換、異體字轉換以及地區習慣用詞轉換（中國大陸、臺灣、香港）。</string>
 				<key>title</key>
-				<string>Convert Chinese between Traditional and Simplified</string>
+				<string>請輸入需要簡繁轉換的詞句...</string>
 				<key>type</key>
 				<integer>0</integer>
 				<key>withspace</key>
@@ -113,7 +117,7 @@
 		</dict>
 	</array>
 	<key>readme</key>
-	<string></string>
+	<string>https://github.com/amowu/alfred-chinese-converter</string>
 	<key>uidata</key>
 	<dict>
 		<key>0A7F94DA-8824-4BEA-892C-25D9882A4143</key>
