@@ -1,6 +1,6 @@
 # Alfred Chinese Converter 簡繁轉換
 
-[![Stories in Ready](https://badge.waffle.io/amowu/alfred-chinese-converter.png?label=ready&title=Ready)](https://waffle.io/amowu/alfred-chinese-converter) [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/amowu/alfred-chinese-converter?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
+[![Github Releases (by Release)](https://img.shields.io/github/downloads/amowu/alfred-chinese-converter/latest/total.svg)](https://github.com/amowu/alfred-chinese-converter/releases/download/1.0.0/alfred-chinese-converter.alfredworkflow) [![](https://img.shields.io/github/issues-raw/amowu/alfred-chinese-converter.svg)](https://github.com/amowu/alfred-chinese-converter/issues) [![GitHub license](https://img.shields.io/github/license/amowu/alfred-chinese-converter.svg)](https://github.com/amowu/alfred-chinese-converter/blob/master/LICENCE) [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/amowu/alfred-chinese-converter?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 
 ![icon](icon.png)
 
