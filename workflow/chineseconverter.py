@@ -25,6 +25,7 @@ def alfred_items_for_value(value):
         ('tw2s.json', u'臺灣正體到簡體', 'CN_china.png'),
         ('s2hk.json', u'簡體到香港繁體', 'HK_hongKong.png'),
         ('hk2s.json', u'香港繁體（香港小學學習字詞表標準）到簡體', 'CN_china.png'),
+        ('tw2sp.json', u'繁體（臺灣正體標準）到簡體並轉換爲中國大陸常用詞彙', 'CN_china.png'),
         ('s2twp.json', u'簡體到繁體（臺灣正體標準）並轉換爲臺灣常用詞彙', 'TW_taiwan.png'),
     ]
     for config_file, description, icon in config_list:
