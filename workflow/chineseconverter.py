@@ -30,7 +30,7 @@ def alfred_items_for_value(value):
     for config_file, description, icon in config_list:
         converter = opencc.OpenCC(
             config=config_file, opencc_path='/usr/local/bin/opencc')
-        item_value = converter.convert(query_str)
+        item_value = converter.convert(value)
         results.append(alfred.Item(
             title=item_value,
             subtitle=description,
