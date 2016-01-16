@@ -8,7 +8,7 @@ def process(query_str):
     if query_str is not None:
         results = alfred_items_for_value(query_str)
         xml = alfred.xml(results)  # compiles the XML answer
-        alfred.write(xml)  # writes the XML back ti Alfred
+        alfred.write(xml)  # writes the XML back to Alfred
 
 
 def alfred_items_for_value(value):
