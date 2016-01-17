@@ -63,5 +63,6 @@ MIT License
 
 ## Contributors 貢獻者
 
+- [Hank Wang](https://github.com/hanksudo)
 - [Michael Waterfall](https://github.com/mwaterfall/alfred-datetime-format-converter)
 - [Khanh Ly](https://dribbble.com/shots/1948154-Country-flags-Retail-Loyalty-Congress-2015)
